@@ -17,8 +17,8 @@ N/A
 * enjoy and have fun memorizing your new, randomly generated password
   
 
-
 ![a sample of the password generator application](assets/images/password-generator-site.png)
+<i>https://cmariego97.github.io/A-Very-Sassy-Password-Generator/
 
 ## Credits
 
